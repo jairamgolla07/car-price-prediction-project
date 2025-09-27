@@ -1,0 +1,6 @@
+streamlit
+pandas
+scikit-learn
+xgboost
+joblib
+openpyxl   # required for reading Excel (.xls, .xlsx)
